@@ -11,7 +11,7 @@ Play around with normal text inputs and use both secure and non-secure button to
 ## Try the following test input in insecure text box and hit insecure button
 
 ### Sql Injection
-123';DELETE FROM users where uid =18;
+123';DELETE FROM users where uid =18;--
 
 ## Try the following test input in insecure text box:
 ### XSS
